@@ -22,6 +22,7 @@ public class DaoEmpleadoOf implements IOperaciones {
        EmpleadoOficina of =new EmpleadoOficina();
         Empleado em =new Empleado();
         //inicialize los datos
+        
         of.setNombre("juana");
         of.setApellido("lopez");
         of.setId(3);
